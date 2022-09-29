@@ -1,7 +1,7 @@
 # analise-critica-scrum
 # Scrum - Analisando Case de Sucesso
 
-Resenha crítica / Análise crítica, sobre aplicação do Scrum - Case de Sucesso da Aplicação do método ágil scrum no desenvolvimento
+##Resenha crítica / Análise crítica, sobre aplicação do Scrum - Case de Sucesso da Aplicação do método ágil scrum no desenvolvimento
 de produtos de software em uma pequena empresa de base tecnológica que atua em Itajubá/MG 
 
 Temos estudo de caso que resume como uma pequena empresa de base tecnológica, na qual se aplicou o método ágil Scrum em um projeto de desenvolvimento de um produto de software.
