@@ -12,7 +12,7 @@ alcançados sugerem que o método melhorou a comunicação e aumentou a motivaç
 - Framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções "adaptativas" para problemas complexos.
 - Veremos Pilares do Scrum, Valores do Scrum que estão sendo aplicados na prática por diversas empresas que mantinham seu Modelo Tradicional de gerenciamento de preojeto (Wartefall)
 - Cases de sucesso, artigos e empresas, falaram que melhorou a "Transparência", perceberam que em um processo de projeto, tinham coisas erradas e apartir da Abordagem Ágil do Scrum, conseguiram perceber isto.
-- O Framework através dos seus "Eventos", "Artefatos" permitiram a aplicação dos Pilares do Scrum: Transparência; Inspeção e Adaptação e Valore do Scrum: Compromisso; Foco; Abertura; Respeito; Coragem
+- O Framework através dos seus "Eventos", "Artefatos" permitiram a aplicação dos Pilares do Scrum: Transparência; Inspeção e Adaptação e Valore do Scrum: Foco; Abertura; Coragem; Compromisso; Respeito
 
 Fonte: https://www.scielo.br/j/gp/a/34xH953TFwLPYDB9BYdJghL/?format=pdf&lang=pt
 
