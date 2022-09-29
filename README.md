@@ -1,7 +1,13 @@
 # analise-critica-scrum
 Scrum - Analisando Case de Sucesso
 
-Resenha crítica / Análise crítica sobre aplicação do Scrum - Case de Sucesso da Empresa: 
+Resenha crítica / Análise crítica sobre aplicação do Scrum - Case de Sucesso da Empresa: SciELO
+
+Fonte: https://www.scielo.br/j/gp/a/34xH953TFwLPYDB9BYdJghL/?format=pdf&lang=pt
+
+Aplicação do método ágil scrum no desenvolvimento ... - SciELO
+
+
 
 Scrum é considerado um framework de gestão de projetos; possui “peças” que podem ser ajustadas conforme a necessidade de cada equipe. Em vez de planejar todo o projeto desde o início, o Scrum se preocupa em dar um passo de cada vez, estando o mais aberto possível a inevitáveis mudanças e correções de rota. Tem sido amplamente aceito no mundo corporativo.
 
